@@ -1,0 +1,22 @@
+{
+    "logo": {
+        "source": "arch3"
+    },
+    "modules": [
+        "title",
+	"separator",
+        "os",
+        "kernel",
+        "uptime",
+        "packages",
+        "shell",
+        "cpu",
+        "cpuusage",
+        "gpu",
+        "memory",
+        "swap",
+        "battery",
+	"break",
+        "colors"
+    ]
+}
