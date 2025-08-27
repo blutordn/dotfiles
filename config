@@ -1,0 +1,27 @@
+
+background = #000000
+foreground = #c1c1c1
+selection-background = #c1c1c1
+selection-foreground = #000000
+selection-invert-fg-bg = true
+cursor-color = #c1c1c1
+cursor-text = #c1c1c1
+cursor-style = bar
+palette = 0=#000000
+palette = 1=#53486F
+palette = 2=#B499DD
+palette = 3=#9066A0
+palette = 4=#888888
+palette = 5=#999999
+palette = 6=#aaaaaa
+palette = 7=#c1c1c1
+palette = 8=#333333
+palette = 9=#49486F
+palette = 10=#C299DD
+palette = 11=#8666A0
+palette = 12=#888888
+palette = 13=#999999
+palette = 14=#aaaaaa
+palette = 15=#c1c1c1
+font-size = 11.5
+font-family = "Source Code Pro Black"
