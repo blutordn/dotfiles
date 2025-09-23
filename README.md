@@ -1,2 +1,3 @@
 # ghostty-configs
-### font - Source Code Pro Black (```sudo pacman -S adobe-source-code-pro-fonts```)
+### requirements
+one line install (arch: ```sudo pacman -S adobe-source-code-pro-fonts fastfetch ghostty```)
