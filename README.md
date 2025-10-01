@@ -5,3 +5,10 @@
 ### installing fastfetch on ubuntu:
 1. ```sudo add-apt-repository ppa:zhangsongcui3371/fastfetch```
 2. ```sudo apt update && apt install fastfetch```
+
+if you don't use arch:
+```
+"logo": {
+        "source": "<your distro name>"
+    },
+```
