@@ -15,6 +15,6 @@ if you don't use arch - change fastfetch config:
         "source": "<your distro name>"
     },
 ```
-<p align="center">example
+<p align="center">
   <img src="screenshots/res.png" width="500"/>
-</p>
+example</p>
