@@ -1,3 +1,6 @@
+# blutordn shitty dotfiles
+## fastfetch config -> config.jsonc
+## ghostty config -> config
 ### requirements
 - arch: ```sudo pacman -S adobe-source-code-pro-fonts fastfetch ghostty```
 - gentoo: ```sudo emerge --ask ghostty source-code-pro fastfetch```
@@ -6,7 +9,7 @@
 1. ```sudo add-apt-repository ppa:zhangsongcui3371/fastfetch```
 2. ```sudo apt update && apt install fastfetch```
 
-if you don't use arch:
+if you don't use arch - change fastfetch config:
 ```
 "logo": {
         "source": "<your distro name>"
