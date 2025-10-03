@@ -18,3 +18,8 @@ if you don't use arch - change fastfetch config:
 <p align="center">
   <img src="screenshots/res.png" width="500"/>
 </p>
+
+## directories of configs
+fastfetch -> ~/.config/fastfetch/config.jsonc
+ghostty -> ~/.config/ghostty/config
+alacritty -> ~/.config/alacritty/alacritty.toml
