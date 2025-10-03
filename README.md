@@ -14,6 +14,6 @@ if you don't use arch - change fastfetch config:
     },
 ```
 ## directories of configs
-fastfetch -> ~/.config/fastfetch/config.jsonc
-ghostty -> ~/.config/ghostty/config
-alacritty -> ~/.config/alacritty/alacritty.toml
+- fastfetch -> ~/.config/fastfetch/config.jsonc
+- ghostty -> ~/.config/ghostty/config
+- alacritty -> ~/.config/alacritty/alacritty.toml
