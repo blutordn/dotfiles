@@ -1,4 +1,3 @@
-#title="YOUR TEXT" <-- static title of window
 background = #000000
 foreground = #c1c1c1
 selection-background = #c1c1c1
