@@ -13,7 +13,7 @@ if you don't use arch - change fastfetch config:
         "source": "<your distro name>"
     },
 ```
-<p align="center">
+<p align="center" ghostty config>
   <img src="screenshots/res.png" width="500"/>
 </p>
 
