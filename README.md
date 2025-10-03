@@ -13,10 +13,6 @@ if you don't use arch - change fastfetch config:
         "source": "<your distro name>"
     },
 ```
-<p align="center" ghostty config>
-  <img src="screenshots/res.png" width="500"/>
-</p>
-
 ## directories of configs
 fastfetch -> ~/.config/fastfetch/config.jsonc
 ghostty -> ~/.config/ghostty/config
