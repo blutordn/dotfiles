@@ -1,0 +1,42 @@
+[colors.bright]
+black = "0x666666"
+blue = "0x9a9a9a"
+cyan = "0xa2a2a2"
+green = "0xbababa"
+magenta = "0x9e9e9e"
+red = "0x8c8c8c"
+white = "0xffffff"
+yellow = "0x949494"
+
+[colors.cursor]
+cursor = "0xffffff"
+text = "0x000000"
+
+[colors.normal]
+black = "0x000000"
+blue = "0x9a9a9a"
+cyan = "0xa2a2a2"
+green = "0xbababa"
+magenta = "0x9e9e9e"
+red = "0x8c8c8c"
+white = "0xffffff"
+yellow = "0x949494"
+
+[colors.primary]
+background = "0x000000"
+foreground = "0xffffff"
+
+[font]
+size = 11.0
+
+[font.normal]
+family = "Source Code Pro"
+style = "Black"
+
+[font.bold]
+family = "Source Code Pro"
+style = "Black"
+
+[font.italic]
+family = "Source Code Pro"
+style = "Black"
